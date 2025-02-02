@@ -1,0 +1,57 @@
+{
+	"websites": [
+		{
+			"url": "https://animated-gingersnap-8cf7f2.netlify.app/",
+			"stories": [
+				{
+					"name": "Implement user authentication",
+					"app": "Web Application",
+					"column": "To Do",
+					"tags": ["Feature", "High Priority"],
+					"username": "admin_username",
+					"password": "admin_password"
+				},
+				{
+					"name": "Fix navigation bug",
+					"app": "Web Application",
+					"column": "To Do",
+					"tags": ["Bug"],
+					"username": "admin_username",
+					"password": "admin_password"
+				},
+				{
+					"name": "Design system updates",
+					"app": "Web Application",
+					"column": "In Progress",
+					"tags": ["Design"],
+					"username": "admin_username",
+					"password": "admin_password"
+				},
+				{
+					"name": "Push notification system",
+					"app": "mobile Application",
+					"column": "To Do",
+					"tags": ["Feature"],
+					"username": "admin_username",
+					"password": "admin_password"
+				},
+				{
+					"name": "Offline mode",
+					"app": "Mobile Application",
+					"column": "In Progress",
+					"tags": ["Feature", "High Priority"],
+					"username": "admin_username",
+					"password": "admin_password"
+				},
+				{
+					"name": "App icon design",
+					"app": "Mobile Application",
+					"column": "Done",
+					"tags": ["Design"],
+					"username": "admin_username",
+					"password": "admin_password"
+				}
+			]
+		}
+	]
+}
